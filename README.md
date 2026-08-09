@@ -1,2 +1,4 @@
 # -Lipsa
-My First Repository
+My First github Repository
+I'm really excited 😆 
+
